@@ -1,0 +1,1 @@
+df['Survived']==1
